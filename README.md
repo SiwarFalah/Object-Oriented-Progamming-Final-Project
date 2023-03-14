@@ -1,6 +1,7 @@
 # Object-Oriented-Progamming-Final-Project
 
 Writing a program that uses javafx and the MVC pattern to manage the system 
+
 System description
 
 Every academic institution has a teaching staff. For each lecturer we will keep his name, social security number, his highest degree (first, second, doctor, professor)
